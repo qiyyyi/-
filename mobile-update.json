@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "product": "com.subaru.mobile",
+  "platform": "android",
+  "versionName": "0.25.0",
+  "versionCode": 46,
+  "minSdk": 26,
+  "apk": {
+    "name": "subaru-mobile-0.25.0.apk",
+    "sha256": "5f81b053c02f95e9b376d5c26ab79009e9e02844a123790ae1e0b2a7bc2502c3",
+    "size": 303738817,
+    "url": "https://github.com/qiyyyi/-/releases/download/v0.25.0/subaru-mobile-0.25.0.apk"
+  },
+  "releaseUrl": "https://github.com/qiyyyi/-/releases/tag/v0.25.0",
+  "notes": [
+    "异世界尖塔开局使用固定十张基础牌，流派通过旅途中抓牌组成。",
+    "加入每章三次死亡回归、敌招记忆、补救牌与同伴配合；回归还原战前资源，同一战斗不重复叠加赠牌。",
+    "修复陪伴语音与字幕不同步、字幕遮挡和重复点评，调整横竖屏剧情立绘位置。",
+    "调整血条尺寸、稀有牌文字对比度和界面配色。",
+    "同步正式发布页，旧版可在应用内检查并下载更新。"
+  ]
+}
