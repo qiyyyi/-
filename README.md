@@ -4,25 +4,25 @@
 
 ## 下载
 
-当前版本：**0.29.0**（versionCode 50）。
+当前版本：**0.30.0**（versionCode 51）。
 
-[下载最新版 APK](https://github.com/qiyyyi/-/releases/download/v0.29.0/subaru-mobile-0.29.0.apk) · [本次更新](https://github.com/qiyyyi/-/releases/tag/v0.29.0) · [历史版本](https://github.com/qiyyyi/-/releases)
+[下载最新版 APK](https://github.com/qiyyyi/-/releases/download/v0.30.0/subaru-mobile-0.30.0.apk) · [本次更新](https://github.com/qiyyyi/-/releases/tag/v0.30.0) · [历史版本](https://github.com/qiyyyi/-/releases)
 
 Android 8.0 及以上，覆盖安装保留聊天记录与设置。应用内“检查更新”读取本仓库 APK Release。
 
 ## 本次更新
 
-- 修复桌面桌宠与星星旅行散步滑行：由原跑步动作调整为慢步循环，腿部正常迈步，转身更平滑；跑步动作保留。
-- 食物扩至 24 种，加入昴应援星星软糖彩蛋；家具扩至 36 件，另有 6 款壁纸和 6 款地板，可预览、购买、免费切换。
-- 明信片扩至 48 张，使用 RE0 原 CG 与场景画面；原有剧情保留游戏原文。
-- 小屋随本地时间呈现白天、黄昏与夜晚，傍晚亮起床边灯；昴和 18 位朋友有喝茶、阅读、照料盆栽、聊天等活动，昴可以坐下休息。
-- 招待后隐藏茶桌文字，下次来访重新显示。旧存档迁移保留当前旅行、朋友、相册、库存和家具。
-- 通过 230 项测试、19 个模型脚部运动检查、四种屏幕尺寸及 Android 模拟器覆盖安装、原生存档回归。
+- 修复旅行角色长按蓝框，按住或拖动可拎起昴和朋友；轻点仍可摸头或打招呼。
+- 放到茶桌、书柜、绿植和休息处可触发互动；六种床铺支持两人躺下，上下铺分别占位，还能再次拎起。
+- 旅途增加原游戏素材的前景绿植、飘叶、缓动背景和走停休息，休息时摆出行囊与书；后台及减少动态模式暂停动效。
+- 招待和行囊入口移到小屋下方，减少遮挡；星星软糖介绍改为“有家的味道。”，青豆改为“昴觉得它不好吃。”。
+- 移除莓果刨冰、猫猫糖、书本蛋糕、小块巧克力。旧存档对应库存退还星星，已出发旅行保留原奖励。
+- 238 项测试、19 个模型躺姿与触摸、六种床、四种屏幕尺寸及 Android 触控安装验证通过。
 
 ## 校验
 
-APK：`subaru-mobile-0.29.0.apk`
+APK：`subaru-mobile-0.30.0.apk`
 
-SHA-256：`e827a5f8ca20b774bd25ef8bef1eacc6e62d61be090eb77eee479f066f82dedc`
+SHA-256：`0ccd802480003c22d6df5fa1e3068bccae0c6e8984bf017b7a8bb19408408aee`
 
 Release 提供 `mobile-update.json` 与 `SHA256SUMS.txt`。
